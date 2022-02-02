@@ -1,2 +1,2 @@
 # paginaPersonal
-Está es mi Páwina Web Profesional
+Está es mi Página Web Profesional
